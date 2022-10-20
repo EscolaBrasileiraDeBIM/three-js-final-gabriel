@@ -1,0 +1,25 @@
+{
+  "name": "three-js-final-gabriel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c",
+    "watch": "rollup -c -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EscolaBrasileiraDeBIM/three-js-final-gabriel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EscolaBrasileiraDeBIM/three-js-final-gabriel/issues"
+  },
+  "homepage": "https://github.com/EscolaBrasileiraDeBIM/three-js-final-gabriel#readme",
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^15.0.0",
+    "rollup": "^3.2.3"
+  }
+}
